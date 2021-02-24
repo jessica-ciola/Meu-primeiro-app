@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Primeiro app</string>
+    <string name="entrada">Bem vindo ao meu primeiro app!!!</string>
+    <string name="titulo_app">Cadastro de Usuário</string>
+    <string name="descricao_app">Por favor, Insira os dados do usuário</string>
+    <string name="edt_nome">Nome de usuario</string>
+    <string name="btn_cadastro">CADASTRAR USUARIO</string>
+    <string name="edt_idade">Idade</string>
+</resources>
