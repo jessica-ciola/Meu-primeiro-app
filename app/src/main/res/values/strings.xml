@@ -6,4 +6,5 @@
     <string name="edt_nome">Nome de usuario</string>
     <string name="btn_cadastro">CADASTRAR USUARIO</string>
     <string name="edt_idade">Idade</string>
+    <string name="text_usuario">Confira seus Dados</string>
 </resources>
